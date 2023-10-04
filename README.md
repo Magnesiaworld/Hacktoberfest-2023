@@ -5,10 +5,10 @@
  <br>
  <br>
 
- ![Issues](https://img.shields.io/github/issues/GeekNerds/Hacktoberfest-2022?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/GeekNerds/Hacktoberfest-2022?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/GeekNerds/Hacktoberfest-2022?style=for-the-badge)
-![License](https://img.shields.io/github/license/GeekNerds/Hacktoberfest-2022?style=for-the-badge)
+ ![Issues](https://img.shields.io/github/issues/Magnesiaworld/Hacktoberfest-2022?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Magnesiaworld/Hacktoberfest-2022?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Magnesiaworld/Hacktoberfest-2022?style=for-the-badge)
+![License](https://img.shields.io/github/license/Magnesiaworld/Hacktoberfest-2022?style=for-the-badge)
 
 <br>
 
