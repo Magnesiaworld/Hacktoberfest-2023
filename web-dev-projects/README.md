@@ -6,3 +6,6 @@
 
 ## 2. Random Background Changer
 ### - Deployed Link: https://randombgchanger.netlify.app
+
+## 3. Number Guessing Game
+### - Deployed Link: https://number-guessing-game2023.netlify.app
